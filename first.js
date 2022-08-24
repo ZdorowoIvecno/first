@@ -1,2 +1,2 @@
-let one = 1 
+let one = 'test'
 console.log(one)
