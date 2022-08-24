@@ -1,2 +1,2 @@
-let one = 11
+let one = 1 
 console.log(one)
